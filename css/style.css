@@ -36,7 +36,7 @@ a.download:hover {
 .main {
   height: 550px;
   padding-top: 55px;
-  background: url(img/intro.jpg);
+  background: url(../img/intro.jpg);
   min-width: 100%;
 }
 
